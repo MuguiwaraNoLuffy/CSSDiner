@@ -1,7 +1,7 @@
 # CSSDiner
 Felix Josue Lopez 2021-0116
 
-# Regumes y definiciones de Selectores CSS
+# Resumen y definiciones de Selectores CSS
 
 ## ID Selectors
 - `#fancy`: Selecciona el elemento con el id "fancy".
